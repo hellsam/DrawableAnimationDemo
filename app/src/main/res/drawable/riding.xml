@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/riding_0" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_1" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_2" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_3" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_4" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_5" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_6" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_7" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_8" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_9" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_10" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_11" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_12" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_13" android:duration="50"/>
+    <item android:drawable="@mipmap/riding_14" android:duration="50"/>
+</animation-list>
